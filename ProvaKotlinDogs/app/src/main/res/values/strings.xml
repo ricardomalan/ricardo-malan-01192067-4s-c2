@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Prova Kotlin Dogs</string>
+    <string name="id_dog_one">ID Dog 1</string>
+    <string name="id_dog_two">ID Dog 2</string>
+    <string name="bt_comprar_dog">Comprar cachorros</string>
+</resources>
